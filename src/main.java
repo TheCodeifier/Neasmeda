@@ -3,7 +3,7 @@ import java.util.List;
 
 interface Listener {
     void ontvangBericht(String bericht, String afzender);
-    String getNaam(); // <-- add this
+    String getNaam();
 }
 
 class ChatKanaal {
