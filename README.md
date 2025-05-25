@@ -1,2 +1,2 @@
 # Neasmeda
-Hosmedit is a CLI based Java chat program which makes use of Observer Pattern.
+Neasmeda is a CLI based Java chat program which makes use of Observer Pattern.
